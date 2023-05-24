@@ -6,10 +6,10 @@ We have taken the starter code from [rmokady/CLIP_prefix_caption](https://github
 
 ## Example image captions generated on COCO validation set images
 
-![](examples_coco.jpg)
+![](images/examples_coco.jpg)
 
 ## Example image captions generated on random images from the internet
 
-![](examples_internet.jpg)
+![](images/examples_internet.jpg)
 
 For more details on this project, [click here](https://github.com/tswaraj/ClipClap/blob/main/Report.pdf).
